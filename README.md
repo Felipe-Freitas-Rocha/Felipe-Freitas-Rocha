@@ -7,19 +7,10 @@
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 ##### Me aperfeiçoando atualmente em:
-<div>
-   <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ##### Contatos:
-<div> 
-  <a href="mailto:felipefreitasrocha@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipefreitasrocha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-</div>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
     
 ##
 <div align="center">  
