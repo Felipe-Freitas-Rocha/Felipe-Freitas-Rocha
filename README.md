@@ -31,7 +31,6 @@
 
 
 <div align="center">
-  <p><b>Visitors Count</b></p>
   <p> 
     <img src="https://komarev.com/ghpvc/?username=felipe-freitas-rocha&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-freitas-rocha" />
   </p>
