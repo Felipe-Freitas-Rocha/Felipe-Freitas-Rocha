@@ -7,27 +7,22 @@
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
 #####  Me aperfeiçoando atualmente em:
-
 <div>
    <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 
 #####  Contatos:
-
 <div > 
   <a href = "mailto:felipefreitasrocha@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipefreitasrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href=""></a> 
     
 ##
- 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipe-Freitas-Rocha&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Freitas-Rocha&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-  
 </div>
-
 
 
 <div align="center">
