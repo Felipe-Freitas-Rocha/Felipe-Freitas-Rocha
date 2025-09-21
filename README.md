@@ -32,7 +32,7 @@
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipe-Freitas-Rocha}/count.svg" /></p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-freitas-rocha&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-freitas-rocha" /> </p>
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
