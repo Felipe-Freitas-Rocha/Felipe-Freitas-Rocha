@@ -6,7 +6,7 @@
 📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Paulista - (UNIP). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-**- Me aperfeiçoando atualmente em:**
+- Me aperfeiçoando atualmente em:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
