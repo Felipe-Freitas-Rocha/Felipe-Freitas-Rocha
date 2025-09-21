@@ -1,19 +1,40 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipe-freitas-rocha&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-freitas-rocha" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipe-freitas-rocha" alt="felipe-freitas-rocha" /></a> </p>
+##
+📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Paulista - (UNIP). <br>
+📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+#####  Me aperfeiçoando atualmente em:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div>
+   <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-freitas-rocha&show_icons=true&locale=en&layout=compact" alt="felipe-freitas-rocha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-freitas-rocha&show_icons=true&locale=en" alt="felipe-freitas-rocha" /></p>
+#####  Contatos:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-freitas-rocha&" alt="felipe-freitas-rocha" /></p>
+<div > 
+  <a href = "mailto:felipefreitasrocha@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipefreitasrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href=""></a> 
+    
+##
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipe-Freitas-Rocha&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Freitas-Rocha&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+  
+</div>
+
+
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipe-Freitas-Rocha}/count.svg" /></p> 
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+</div>
