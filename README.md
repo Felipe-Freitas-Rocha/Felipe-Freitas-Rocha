@@ -6,17 +6,20 @@
 📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Universidade Paulista - (UNIP). <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
-#####  Me aperfeiçoando atualmente em:
-<div>
+##### Me aperfeiçoando atualmente em:
+<div align="center">
    <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-
-#####  Contatos:
-<div > 
-  <a href = "mailto:felipefreitasrocha@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipefreitasrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href=""></a> 
+##### Contatos:
+<div align="center">
+  <a href="mailto:felipefreitasrocha@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=hotmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipefreitasrocha/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
     
 ##
 <div align="center">  
