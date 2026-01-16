@@ -17,5 +17,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasrocha/)
 [![Hotmail](https://img.shields.io/badge/hotmail-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:felipefreitasrocha@hotmail.com)
     
+<div align="center">
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=felipe-freitas-rocha&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-freitas-rocha" />
+  </p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </div>
