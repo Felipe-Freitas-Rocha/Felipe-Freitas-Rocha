@@ -17,16 +17,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefreitasrocha/)
 [![Hotmail](https://img.shields.io/badge/hotmail-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:felipefreitasrocha@hotmail.com)
     
-##
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipe-Freitas-Rocha&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Freitas-Rocha&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-</div>
-
-
-<div align="center">
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=felipe-freitas-rocha&label=Profile%20views&color=0e75b6&style=flat" alt="felipe-freitas-rocha" />
-  </p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </div>
